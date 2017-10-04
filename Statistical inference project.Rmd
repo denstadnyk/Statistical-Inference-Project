@@ -2,8 +2,8 @@
 title: "Statistical inference project"
 author: "Denys Stadnyk"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 We are going to analyze ToothGrowth data and perform some Exploratory and Basic Inferential Data Analysis.
